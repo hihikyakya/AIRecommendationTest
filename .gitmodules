@@ -1,0 +1,3 @@
+[submodule ".agent/skills/projects/AIRecommendationCOL_SYS"]
+	path = .agent/skills/projects/AIRecommandationCOL_SYS
+	url = https://github.com/hihikyakya/AIRecommandationCOL_SYS.git
