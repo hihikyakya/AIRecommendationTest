@@ -155,7 +155,7 @@ def compute_f1(precision_val: float, recall_val: float) -> float:
     return float(2.0 * precision_val * recall_val / (precision_val + recall_val))
 
 
-# 기존 및 과제 명세 함수명 호환용 별칭
+# 기존 및 과제 명세 함수명 호환용 별칭 (실행흐름에 영향을 주지않아서 그대로 놔둠.)
 precision = precision_at_k
 recall = recall_at_k
 average_precision = average_precision_at_k
